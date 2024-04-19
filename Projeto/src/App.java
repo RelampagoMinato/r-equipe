@@ -1,5 +1,5 @@
-import br.edu.up.TelaPrincipal;
-import br.edu.up.Livro;
+import br.edu.up.telas.Livro;
+import br.edu.up.telas.TelaPrincipal;;
 
 public class App {
     public static void main(String[] args) throws Exception {
